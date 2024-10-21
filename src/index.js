@@ -4,6 +4,8 @@ import './index.css'; // Estilos globais
 import App from './App'; // Componente principal
 import reportWebVitals from './reportWebVitals'; // Para métricas de desempenho
 
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -12,3 +14,4 @@ root.render(
 );
 
 reportWebVitals(); // Opcional
+
